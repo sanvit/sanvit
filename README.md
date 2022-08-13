@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![jaewokim's 42 stats](https://badge42.herokuapp.com/api/stats/jaewokim)](https://github.com/JaeSeoKim/badge42)
+[![jaewokim's 42 stats](https://badge42.vercel.app/api/v2/cl0yzylwn000609jxqw66nvu2/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **sanvit/sanvit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
